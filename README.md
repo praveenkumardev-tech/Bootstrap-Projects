@@ -1,4 +1,4 @@
-# PondyTours!
+# PondyTours
 
 Explore the vibrant beauty of Pondicherry with **PondyTours**, a Bootstrap-powered web project designed to deliver a seamless user experience for travelers. Visit the live website here: [PondyTours](https://pondytours.netlify.app)
 
